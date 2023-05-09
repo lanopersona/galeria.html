@@ -11,12 +11,12 @@
 
 </tr>
 <tr>
-	<td> <a href=imagen1Grande.jpg> <img src="imagen1pequeña.jpg"> </td>
-	<td> <a href=imagen2Grande.jpg> <img src="imagen2pequeña.jpg"> </td>
+	<td> <a href=imagen1Grande> <img src="imagen1pequeña"> </td>
+	<td> <a href=imagen2Grande> <img src="imagen2pequeña"> </td>
 </tr>
 <tr>
-	<td> <a href=imagen3Grande.jpg> <img src="imagen3pequeña.jpg"> </td>
-	<td> <a href=imagen4Grande.jpg> <img src="imagen4pequeña.jpg"> </td>
+	<td> <a href=imagen3Grande> <img src="imagen3pequeña"> </td>
+	<td> <a href=imagen4Grande> <img src="imagen4pequeña"> </td>
 
 </tr>
 </table>
